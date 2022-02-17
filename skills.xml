@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+	<basics>Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC</basics>
+	<architecure>Что такое клиент-серверная архитектура</architecture> 
+	<http_requests>HTTP Методы запросов на сервер</http_requests>
+	<http_responses>Коды ответов HTTP сервера</http_responses>
+	<http_structure>Структуры HTTP запросов и ответов</http_structure>
+	<JSON_VS_XML>Что такое JSON, XML. Их структура</JSON_VS_XML>
+	<Postman>Тестирование API через Postman (JS, автотесты API)</Postman>
+	<logs_reading>Снятие и чтение логов c внешнего сервера</logs_reading>
+	<http_sniffing>Снифинг http web трафика через Charles и Fiddler</http_sniffing>
+	<devtools>Dev Tools веб браузеров (Google Chrome, FireFox)</devtools>
+	<VPN>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</VPN>
+	<mobile_testing>Мобильное тестирование</mobile_testing>
+	<IOS_Android>Особенность iOS, Android, гайдлайны</IOS_Android>
+	<XCode>Сборка iOS приложений на XCode</XCode>
+	<Android_studio>Сборка Android приложений на Android Studio</Android_studio>
+	<ADB>ADB (управление андройд девайсами)</ADB>
+	<proxy_VPN>Настройка прокси и vpn на iOS и Android</proxy_VPN>
+	<mobile_sniffing>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</mobile_sniffing>
+	<linux_terminal>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</linix_terminal>
+	<bash_scripting>Основы bash скриптинг, автоматизация рутинных задач на сервере"</bash_scripting>
+	<remote_server>Доступ к удалённым серверам</remote_server>
+	<SQL>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</SQL>
+	<Postgres>База данных Postgres (установка, настройка и использование)</Postgres>
+	<Redis>Нереляционная база данных Redis (установка, настройка и использование)</Redis>
+	<Jmeter>Нагрузочное тестирование в Jmeter</Jmeter>
+	<Scrum>Методология разработки Scrum</Scrum>
+	<python>Python. (Изучение основ. Создание клиент серверного приложения)</python>	
+</skills>
