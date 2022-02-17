@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <bug_number>1</bug number>
+  <bug_title>App allows user registration with non-existing e-mail</bug_title>
+  <test_environment>Android 9</test_environment>
+  <app_version>2.4.3</app_version>
+  <steps to reproduce>
+    <step1>Open the UMN app</step1> 
+    <step2>Enter non-existing e-mail corresponding only with mask</step2> 
+    <step3>Enter the password with required number of symbols</step3>
+    <step4>Push registration button</step4>
+  </steps to reproduce>
+  <actual_result>new user is registered</actual_result>
+  <expected_result>email verification occurs</expected_result>
+</bug_report>
